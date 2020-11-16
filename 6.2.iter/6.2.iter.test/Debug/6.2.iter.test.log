@@ -1,0 +1,4 @@
+﻿  6.2.iter.test.cpp
+D:\Lab_6\6.2.iter\6.2.iter.test\6.2.iter.test.cpp(18,23): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+     Создается библиотека D:\Lab_6\6.2.iter\Debug\6.2.iter.test.lib и объект D:\Lab_6\6.2.iter\Debug\6.2.iter.test.exp
+  6.2.iter.test.vcxproj -> D:\Lab_6\6.2.iter\Debug\6.2.iter.test.dll
